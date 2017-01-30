@@ -5,7 +5,7 @@
 #include <cstdint>
 
 #include "des.h"
-#include "constants.h"
+#include "des_constants.h"
 
 // http://page.math.tu-berlin.de/~kant/teaching/hess/krypto-ws2006/des.htm
 
