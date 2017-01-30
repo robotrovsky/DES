@@ -2,7 +2,7 @@
 #include <fstream>
 #include <cassert>
 #include <boost/program_options.hpp>
-#include "des.hpp"
+#include "des.h"
 
 int main(int argc, char ** argv)
 {
